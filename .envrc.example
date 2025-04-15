@@ -1,0 +1,2 @@
+export git config --global url."https://${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
+export GOPRIVATE=github.com/continue-team/*
